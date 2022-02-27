@@ -147,7 +147,7 @@ files:
     if __name__ == '__main__':
         ExamTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/173/stages/894/implement#comment
+feedback_link: https://hyperskill.org/learn/step/12803#comment
 status: Solved
 feedback:
   message: Congratulations!

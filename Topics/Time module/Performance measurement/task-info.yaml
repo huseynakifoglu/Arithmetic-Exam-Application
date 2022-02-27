@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import time
+
+    start =   # write your code here
+    end =   # write your code here
+
+    total_time =  # write your code here
+    print(f"The program has executed for {total_time} seconds.")
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10972#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 22 Feb 2022 21:22:00 UTC
+record: -1
